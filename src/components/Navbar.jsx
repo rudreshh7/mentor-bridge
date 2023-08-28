@@ -7,7 +7,7 @@ const Navbar = () => {
     <div className="navbar">
       <Link to="/">
         <div className="logo">
-          <img src={process.env.PUBLIC_URL + "/assets/logo.png"} alt="Logo" />
+          <img src="/assets/logo.png" alt="Logo" />
         </div>
       </Link>
 
