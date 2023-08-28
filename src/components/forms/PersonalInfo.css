@@ -1,0 +1,21 @@
+.fetch{
+    text-align: center;
+}
+
+.shortButton{
+    display: flex;
+}
+
+.shortButton input{
+    width: 30%;
+    display: flex;
+    margin-right: 30px;
+}
+.bigName textarea{
+    width: 500px;
+    border-radius: 10px;
+     resize: none;
+     border: 0.5px  rgba(0, 0, 0, 0.234) solid;
+
+
+}

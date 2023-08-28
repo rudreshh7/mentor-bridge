@@ -1,0 +1,48 @@
+.formcontainer{
+    display: flex;
+    justify-content: space-around
+}
+
+
+.oneclicklogin{
+    display: flex;
+    justify-content: space-around;
+}
+
+input{
+    padding: 15px;
+    border-radius: 10px;
+    border: 0.5px black solid;
+    border: 0.5px rgba(128, 128, 128, 0.526) solid;
+width: 500px;
+}
+
+.inputarea p{
+    margin-bottom: 2px;
+    color: #000;
+    font-weight:500;
+}
+
+button{
+    padding: 10px;
+    background-color: white;
+    border-radius: 10px;
+    border: 0.5px rgba(128, 128, 128, 0.526) solid;
+    
+}
+.or{
+    padding: 10px;
+    position: relative;
+    bottom:20px;
+}
+
+
+.signupimage img{
+    width:500px;
+    height: 500px;
+    margin-bottom: 100px;
+
+}
+
+
+

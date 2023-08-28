@@ -1,0 +1,41 @@
+/* ServiceSection.css */
+
+.service-container {
+    text-align: center;
+   
+    background-color:#C0E3FC;
+  }
+  
+  h2 {
+    margin: 0;
+    padding-top: 30px;
+    padding-bottom: 30px;
+  }
+
+  
+  
+  .image-container {
+    display: flex;
+    justify-content: space-evenly;
+    
+  }
+  
+  .image-box {
+    margin: 10px;
+    margin-top: 50px;
+  }
+  .image-box img{
+height: 70px;
+width: 300px;
+  }
+  
+  .career-image-container {
+    margin-top: 80px;
+    display: flex;
+    justify-content: space-evenly
+  }
+  
+  .career-image-box {
+    margin: 10px;
+  }
+  
